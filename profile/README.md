@@ -19,5 +19,3 @@ What you get:
 - fail2ban, sysctl hardening, 180-day log retention
 - sshid.io hardware keys for Termius mobile access
 - Ephemeral Tailscale node (auto-removed on server destroy)
-
-<a href="https://termius.com/opensource"><img src="https://raw.githubusercontent.com/AICMO/.github/main/assets/termius-logo.svg" alt="Termius - SSH platform for Mobile and Desktop" height="24"/></a>
