@@ -20,5 +20,5 @@ What you get:
 - sshid.io hardware keys for Termius mobile access
 - Ephemeral Tailscale node (auto-removed on server destroy)
 
-SSH by Termius <img width="64" height="64" alt="termius-icon-64" src="https://github.com/user-attachments/assets/39b29ec3-19c2-46d9-abd7-e2ca0dbb4d58" />
+<img width="64" height="64" alt="termius-icon-64" src="https://github.com/user-attachments/assets/39b29ec3-19c2-46d9-abd7-e2ca0dbb4d58" /> Termius provides a secure, reliable, and collaborative SSH client.
 
